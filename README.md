@@ -2,7 +2,7 @@ Explicación del ejercicio:
 
 Se ha creado una página que cada vez que se refresca genera una excusa al azar.
     
-Para conseguir esto, hemos vinculado nuestro HTML con la función de JS a través de un getElementBy para cambiar el <p>.
+Para conseguir esto, hemos vinculado nuestro HTML con la función de JS a través de un getElementBy para cambiar el ```<p>```
 
 Se han declarado variables de las palabras que se quieren enseñar para generar la excusa
 
